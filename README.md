@@ -26,8 +26,6 @@ The Titanic dataset is a classic classification problem. The goal is to predict 
 - **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 - **Files used:**
   - `train.csv`: Used for model training and evaluation
-  - `test.csv`: Used for final predictions (optional)
-
 ---
 
 ## 🛠️ Technologies Used
